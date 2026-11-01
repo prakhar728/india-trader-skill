@@ -1,0 +1,15 @@
+{
+  "capital": 100000, "cash_buffer_pct": 10,
+  "max_loss_per_trade": 500, "daily_loss_limit": 1500, "max_trades_per_day": 3,
+  "min_reward_risk": 1.5, "position_cap_pct": 25, "max_order_value": 50000,
+  "include_charges": true,
+  "no_entries_before": "09:30", "no_entries_after": "14:30", "flat_by": "15:05",
+  "product": "INTRADAY", "exchange": "NSE",
+  "allow_leverage": false, "allow_short": false, "allow_fno": false,
+  "blocked_symbols": [],
+  "mode": "paper",
+  "broker": "dhan", "static_ip": "",
+  "stop_limit_buffer_ticks": 5, "exit_limit_ticks": 5, "exit_reprice_max": 5,
+  "data_source": "auto",
+  "extra_holidays": {}, "special_sessions": {}
+}

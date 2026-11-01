@@ -1,0 +1,2 @@
+{"_note": "Built from the documented shape of Dhan v2 POST /marketfeed/ltp (cannot be recorded without keys). Prices are the real 2026-10-29 15:30 Yahoo closes in this folder.",
+ "data": {"NSE_EQ": {"2885": {"last_price": 1167.4}, "1333": {"last_price": 683.3}}}, "status": "success"}

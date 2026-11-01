@@ -1,0 +1,21 @@
+{
+  "name": "india-trader-skill",
+  "description": "Claude Code skills for researching, backtesting and paper-trading NSE stocks, with order support for Dhan and Angel One.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Prakhar Ojha"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "nse",
+    "india",
+    "dhan",
+    "angel-one",
+    "backtesting",
+    "research"
+  ],
+  "skills": "./",
+  "repository": "https://github.com/prakhar728/india-trader-skill"
+}

@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {"id": "pre-open", "type": "pre_open"},
+    {"id": "opening-bell", "type": "opening_bell"},
+    {"id": "reliance-plan-stop", "symbol": "RELIANCE", "type": "stop", "price": 1163.3, "note": "plan stop: or-mid", "date": "2026-10-29"},
+    {"id": "reliance-plan-target", "symbol": "RELIANCE", "type": "target", "price": 1185.2, "note": "plan target: 2R", "date": "2026-10-29"},
+    {"id": "reliance-flat-by", "symbol": "RELIANCE", "type": "time", "at": "15:05", "label": "flat by", "before_close": true, "date": "2026-10-29"},
+    {"id": "infy-pct_move-2", "symbol": "INFY", "type": "pct_move", "pct": 2},
+    {"id": "hdfcbank-below-675", "symbol": "HDFCBANK", "type": "below", "price": 675, "rearm": true}
+  ]
+}

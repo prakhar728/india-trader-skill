@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "india-trader-skill",
+  "description": "Claude Code skills for researching, backtesting and paper-trading NSE stocks, with order support for Dhan and Angel One.",
+  "owner": {
+    "name": "Prakhar Ojha"
+  },
+  "plugins": [
+    {
+      "name": "india-trader-skill",
+      "description": "Claude Code skills for researching, backtesting and paper-trading NSE stocks, with order support for Dhan and Angel One.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

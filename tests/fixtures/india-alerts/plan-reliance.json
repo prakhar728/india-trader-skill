@@ -1,0 +1,6 @@
+{"symbol": "RELIANCE", "exchange": "NSE", "side": "long", "date": "2026-10-29",
+ "entry": 1170.6, "stop": 1163.3, "target": 1185.2, "tick": 0.1,
+ "risk_per_share": 7.3, "r_multiple": 2.0, "stop_rule": "or-mid", "target_rule": "2R",
+ "flat_by": "15:05", "opening_range": {"high": 1170.5, "low": 1156.2, "minutes": 15},
+ "made": "2026-10-29T09:45:00+05:30",
+ "_note": "A plan in india-exit's shape (user input, not market data). The opening range is the real 09:15-09:29 RELIANCE high/low from tests/fixtures/common/yahoo-RELIANCE.NS-1d1m.json; the stop is its midpoint rounded down to the 0.10 tick."}

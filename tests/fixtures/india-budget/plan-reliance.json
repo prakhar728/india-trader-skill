@@ -1,0 +1,8 @@
+{
+  "_source": "Built from the real Yahoo 1-minute bars in tests/fixtures/common/yahoo-RELIANCE.NS-1d1m.json (2026-10-29), resampled to 5 minutes: opening range 09:15-09:30 high 1170.50 low 1156.20; the 09:35 bar is the first to close above the high (1174.30). Stop = range midpoint 1163.35 rounded down to the 0.10 tick; target = 2R rounded down.",
+  "symbol": "RELIANCE", "exchange": "NSE", "side": "long", "date": "2026-10-29",
+  "entry": 1174.3, "stop": 1163.3, "target": 1196.3, "tick": 0.1,
+  "risk_per_share": 11.0, "r_multiple": 2.0, "stop_rule": "or-mid", "target_rule": "2R",
+  "flat_by": "15:05", "opening_range": {"high": 1170.5, "low": 1156.2, "minutes": 15},
+  "made": "2026-10-29T09:40:05+05:30"
+}
